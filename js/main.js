@@ -300,7 +300,7 @@
              <span class="exit-new">R$150,00</span>
            </div>
            <p class="exit-sub">Isso é menos de <strong>R$2,28 por dia</strong> para transformar a saúde do seu cavalo.</p>
-           <a href="https://wa.me/5586988400251?text=Olá!%20Quero%20adquirir%20o%20Kit%20de%20Moringa%20Peletizada!" target="_blank" class="exit-btn">
+           <a href="https://agro-moringa.myshopify.com/cart/45699819864247:1" target="_blank" rel="noopener noreferrer" class="exit-btn">
              <span>🌿</span> SIM, QUERO APROVEITAR AGORA!
            </a>
            <button class="exit-dismiss" id="exit-dismiss-btn">Não, dispenso a oferta</button>

@@ -1285,6 +1285,21 @@ ul { list-style: none; }
 .footer-list a:hover {
   color: var(--gold-light);
 }
+.footer-list a.footer-contact-link {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  color: rgba(255, 255, 255, 0.62);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+.footer-list a.footer-contact-link:hover {
+  color: var(--gold-light);
+}
+.footer-list a.footer-contact-link i {
+  color: var(--green-bright);
+  margin-top: 3px;
+}
 
 .footer-bottom {
   border-top: 1px solid rgba(255,255,255,0.08);
